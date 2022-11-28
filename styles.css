@@ -19,6 +19,23 @@ input {
   padding: 20px;
 }
 
+.top-nav-corner {
+  display: flex;
+  padding-top: 50px;
+}
+
+.fa-bars {
+  padding-right: 10px;
+  padding-top: 25px;
+}
+
+.fa-users {
+  padding-right: 10px;
+  padding-left: 5px;
+  padding-top: 25px;
+}
+
+
 .company-logo {
   width: 150px;
   padding-right: 25px;
